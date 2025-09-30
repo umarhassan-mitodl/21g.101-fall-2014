@@ -1,0 +1,41 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: e95dea7d-7d86-d87d-7bba-d5e5688ea477
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d8ccb197-ab67-6be4-a720-7a23a6299c35
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 72e39a55-cc88-e4be-4804-361036c26cf0
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 40304ee0-a9b7-2d45-4bbc-22a6f7b693c0
+  name: Video Playlist (English)
+  pageRef: /pages/instructor-insights/video-playlist-english
+  parent: 72e39a55-cc88-e4be-4804-361036c26cf0
+  weight: 40
+- identifier: 380526f1-b053-c43f-6b4a-5417ad0a0743
+  name: Video Playlist (Chinese)
+  pageRef: /pages/instructor-insights/video-playlist-chinese
+  parent: 72e39a55-cc88-e4be-4804-361036c26cf0
+  weight: 50
+- identifier: 3bacb5b7-b0ec-8a83-1713-336b4df6d161
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: a2bb5a98-c7ad-7e2b-b81c-9d9069073ba5
+  name: Oral Report and Final Oral Interview
+  pageRef: /pages/oral-report-and-final-oral-interview
+  weight: 70
+- identifier: 7316babc-c979-09fb-dfed-2ad8827973ac
+  name: Review Test Format
+  pageRef: /pages/review-test-format
+  weight: 80
+- identifier: e17ab0a8-6d79-48e0-c0b2-78f06fc68b82
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90

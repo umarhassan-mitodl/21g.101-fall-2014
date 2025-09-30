@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "6cc313bc-ff5a-aadb-d8d2-598fa4333804",
+  "instructors": {
+    "content": [
+      "2f5dbfdd-2a6e-aa13-c3d8-8317cc9a1ebd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6e394c99-3518-381e-5b68-c5c502948801",
+    "website": "21g-101-chinese-i-regular-fall-2014"
+  },
+  "course_title": "Chinese I (Regular)",
+  "hide_download": true,
+  "course_description": "This subject is the first semester of four that forms an introduction to modern standard Chinese, commonly called Mandarin, the language with the largest number of native speakers in the world. It is the official language of Mainland China and Taiwan, and one of the official languages of Singapore. The course presupposes no prior background in the language. Course objectives are to master Mandarin pronunciation, including the recognition and writing of Pinyin romanization, basic reading and writing skills (around 150 characters in the traditional character set or the simplified set), and to develop the ability to participate in simple, practical conversations on everyday topics. The relationship between Chinese language and culture and the sociolinguistically appropriate use of language will be stressed throughout. Typical class format will include performance of memorized basic conversations, drills, questions and discussion, and various types of communicative exercises.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.171,21G.151",
+  "primary_course_number": "21G.101",
+  "course_image_thumbnail": {
+    "content": "bd90edf0-8c78-4e19-6f2b-ff8e7065dcf0",
+    "website": "21g-101-chinese-i-regular-fall-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "ce29d65f-97ca-4c3b-91cd-691887bef659",
+  "site_short_id": "21g.101-fall-2014",
+  "site_url_path": "courses/21g-101-chinese-i-regular-fall-2014",
+  "title": "Course Metadata"
+}
