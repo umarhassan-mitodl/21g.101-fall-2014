@@ -4,8 +4,6 @@ description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/0699fce4acf81c1a4328b39cd83c390d_instructor_thumb.jpg
 file_size: 70694
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

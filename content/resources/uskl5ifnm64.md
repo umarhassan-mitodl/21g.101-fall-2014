@@ -4,8 +4,6 @@ description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/cd41efd51c071d1268f951432494e817_uskl5IFNM64.srt
 file_size: 3850
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

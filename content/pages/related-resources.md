@@ -3,8 +3,6 @@ content_type: page
 description: This section provides recommended study procedures for written and spoken
   Chinese classes, and links to related resources for students interesting in studying,
   working, or teaching abroad.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -63,10 +61,10 @@ When assigned, in \[BWCPE\], do parts A and B of the Reading and Writing Exercis
 For MIT students interested in working or teaching abroad:
 ----------------------------------------------------------
 
-1.  The [MIT-China Program](https://misti.mit.edu/mit-china), one of the MISTI (MIT Science and Technology Initiative) programs, sponsors students working or teaching in Mainland China, Hong Kong, Taiwan, or Singapore for a summer, six months, or a school year.
+1.  The {{% resource_link "3adfa6ce-05a3-497c-b5c7-a2ca09ab7694" "MIT-China Program" %}}, one of the MISTI (MIT Science and Technology Initiative) programs, sponsors students working or teaching in Mainland China, Hong Kong, Taiwan, or Singapore for a summer, six months, or a school year.
 2.  CETI (Chinese Education and Technology Initiative), a student-run group affiliated with MISTI China, sponsors students teaching high-school students science and technology over the summer.
 
 For MIT students interested in studying abroad:
 -----------------------------------------------
 
-Check out the [Global Education Office website](https://calendar.mit.edu/department/global_education_office) for opportunities and scholarships for studying Chinese.
+Check out the {{% resource_link "368a75a5-b283-4616-94f2-d95c8b69f400" "Global Education Office website" %}} for opportunities and scholarships for studying Chinese.

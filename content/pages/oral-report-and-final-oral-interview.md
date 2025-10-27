@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides guidelines for the oral report and final oral interview
   required for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Oral Report and Final Oral Interview
@@ -80,7 +78,7 @@ Participation
 
 ### Useful Online Dictionary
 
-[Online Chinese-English Talking Dictionary](http://www.yellowbridge.com/chinese/)
+{{% resource_link "9134f5d3-9e71-401b-b139-5287ca46c1c5" "Online Chinese-English Talking Dictionary" %}}
 
 Use this online dictionary with caution. It is recommended to know how the words you need are properly used contextually by consulting your teacher or a native speaker.
 
